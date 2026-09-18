@@ -172,4 +172,3 @@ This project demonstrated how Python and Pandas can be used to clean, analyse an
 The analysis found that the Butchers category generated the highest revenue and online transactions generated slightly more revenue than in-store transactions. Payment method and discount status only had a small relationship with transaction value.
 
 Monthly sales varied throughout the dataset, with the highest complete annual revenue recorded in 2024.
->>>>>>> 05e1d69 (finished the task)
